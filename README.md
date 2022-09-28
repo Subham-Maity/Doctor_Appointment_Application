@@ -2,5 +2,6 @@
 
 # Tech Framework : HTML CSS PHP MySQL
 
-Structure
-[ss](Subham.png)
+### Structure
+
+![screenshot](Subham.png)
