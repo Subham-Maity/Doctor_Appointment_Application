@@ -1,5 +1,2 @@
 
 
-### Structure
-
-![screenshot](Subham.png)
